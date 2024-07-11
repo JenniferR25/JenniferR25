@@ -6,13 +6,13 @@
 </div>
 <hr>
 <article>
-	<h2>About me</h2>
+	<h2 align="center">About me</h2>
 	<p>I'm a designer and front-end software engineer with a passion for creating accessible and inclusive experiences for the web. My experience in development started 14 years ago developing mods in lua for Gary's Mod and FiveM, as well as SQF for Arma 2 and Arma 3.</p>
 	<p>Professionally I have a background in healthcare and public safety but I'm currently making a transition into development and design. Outside of work, I enjoy working on personal projects, playing video games, and keeping up with the worlds of Star Wars, NCIS & Grey's Anatomy.</p>
 </article>
 <hr>
 <article>
-	<h2>Technical Skills</h2>
+	<h2 align="center">Technical Skills</h2>
 	<ul>
 		<li>Languages & Technologies: HTML, CSS, Python</li>
 		<li>Tools & Platforms: Git, GitHub, VSCode, Jetbrains Suit, Docker, Vercel</li>
@@ -20,7 +20,7 @@
 </article>
 <hr>
 <section>
-	<h2>Connect with Me</h2>
+	<h2 align="center">Connect with Me</h2>
 	<ul>
 		<li><a href="https://jenniferreed.dev/" target="_blank">jenniferreed.dev</a></li>
 		<li><a rel="me" href="https://twitter.com/jjr25_official" target="_blank">Twitter</a></li>
