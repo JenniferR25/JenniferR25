@@ -24,6 +24,15 @@
 	<ul>
 		<li><a href="https://jenniferreed.dev/" target="_blank">jenniferreed.dev</a></li>
 		<li><a rel="me" href="https://twitter.com/jjr25_official" target="_blank">Twitter</a></li>
+		<li><a rel="me" href="https://bsky.app/profile/jenniferr25.bsky.social" target="_blank">Bluesky</a></li>
+		<li><a rel="me" href="https://www.reddit.com/user/JJR25_Official/" target="_blank">Reddit</a></li>
+		<li><a rel="me" href="https://www.instagram.com/jjr25_official/" target="_blank">Instagram</a></li>
+		<li><a rel="me" href="https://www.threads.net/@jjr25_official" target="_blank">Threads</a></li>
+		<li><a rel="me" href="https://mstdn.social/@JenniferR25" target="_blank">Mastodon</a></li>
+		<li><a rel="me" href="https://www.twitch.tv/jenniferthecapybara" target="_blank">Twitch</a></li>
+		<li><a rel="me" href="https://www.youtube.com/@JenniferTheCapybara" target="_blank">Youtube</a></li>
+		<li><a rel="me" href="https://stackoverflow.com/users/19944774/jennifer" target="_blank">Stack Overflow</a></li>
+		<li><a rel="me" href="https://developers.google.com/profile/u/jenniferreed" target="_blank">Google Developer Program</a></li>
 		<li><a href="https://www.linkedin.com/in/jjr25/" target="_blank">LinkedIn</a></li>
 	</ul>
 </section>
