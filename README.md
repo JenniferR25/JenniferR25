@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">Hi! I'm Jennifer Reed. (She/Her)</h1>
-<h2 align="center">Queer, Disabled Jr. Developer Specializing in Accessible Web Development and Design.</h2>
+<h2 align="center">A queer, disabled jr. developer specializing in accessible web development and design.</h2>
 <div align="center">
 	<img align="center" src="https://utfs.io/f/85bfad1e-85a2-43b3-a84f-824b2301b27e-1od4sc.min.svg" alt="Jennifer Reed Creative logo" />
 </div>
