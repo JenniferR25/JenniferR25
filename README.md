@@ -8,14 +8,6 @@
 	<p>Outside of work, I enjoy working on personal projects, playing video games, and keeping up with the worlds of Star Wars and Grey's Anatomy.</p>
 </article>
 <hr>
-<article>
-	<h2 align="center">Technical Skills</h2>
-	<ul>
-		<li>Languages & Technologies: LUA, SQF, Python, HTML, CSS, JS, TailwindCSS, PostgreSQL, SQLite, PHP</li>
-		<li>Tools & Platforms: VSCode, Zed, Docker, Linux, Windows, IOS, Android</li>
-	</ul>
-</article>
-<hr>
 <table align="center">
   <tr>
     <td>You are visitor</td>
