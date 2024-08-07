@@ -1,12 +1,7 @@
 <hr>
-<h1 align="center">Hi! I'm Jennifer Reed.</h1>
-<p align="center">Pronouns: She/Her</p>
-<hr>
-<article>
-	<h2 align="center">About me</h2>
-	<p>I'm a designer and developer with a passion for creating accessible and inclusive experiences. My experience in development started 14 years ago developing mods with LUA in for Gary's Mod and FiveM, as well as with SQF in Arma 2 and Arma 3.</p>
-	<p>Outside of work, I enjoy working on personal projects, playing video games, and keeping up with the worlds of Star Wars and Grey's Anatomy.</p>
-</article>
+<h1 align="center">Hi! I'm Jennifer. My pronouns are She/Her.</h1>
+<p>I'm a designer and developer with a passion for creating accessible and inclusive experiences. My experience in development started 14 years ago developing mods with LUA in for Gary's Mod and FiveM, as well as with SQF in Arma 2 and Arma 3.</p>
+<p>Outside of work, I enjoy working on personal projects, playing video games, and keeping up with the worlds of Star Wars and Grey's Anatomy.</p>
 <hr>
 <table align="center">
   <tr>
